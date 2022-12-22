@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: SOView
+Version: 1.0
+Summary: Spatial Omics data Visualization
+Home-page: https://github.com/yuanzhiyuan/SOView
+Author: Zhiyuan Yuan
+Author-email: 707699544@qq.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # SOView  v1.0
 
 ## SOView is a efficient visualization method for spatial omics data

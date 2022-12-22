@@ -1,0 +1,10 @@
+README.md
+setup.py
+SOView/__init__.py
+SOView/my_plot.py
+SOView/soview.py
+SOView.egg-info/PKG-INFO
+SOView.egg-info/SOURCES.txt
+SOView.egg-info/dependency_links.txt
+SOView.egg-info/requires.txt
+SOView.egg-info/top_level.txt
