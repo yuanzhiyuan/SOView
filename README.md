@@ -1,49 +1,19 @@
-# SOView  v1.0
+## Overall
 
-## SOView is a efficient visualization method for spatial omics data
+<br>SOView can visualize tissue structures for spatial omics data.
 
-### Developer: Zhiyuan Yuan (707699544@qq.com)
+<br>Find installation and tutorial in the [**Tutorial**](https://ms-doc.readthedocs.io/en/latest/)
 
-
-<br>
-## Examples
-### spatial proteomics (4i) demo
-![spatial proteomics (4i) demo](images/F1.png)
-### spatial transcriptomics (slide-seq) demo
-![spatial transcriptomics (slide-seq) demo](images/F2.png)
-
-
-## Usage
-
-
-
-## Tutorial
-
-For the step-by-step tutorial, please refer to: 
-<br>
-https://github.com/yuanzhiyuan/SOTIP/tree/master/SOTIP_analysis/tutorial/
+### Developer: Zhiyuan Yuan (zhiyuan AT fudan DOT edu DOT cn) 
 <br>
 
 
-Please install Jupyter in order to open this notebook.
+## SOView overview
+
+![MS](Images/soview.png)
 
 
-## How to install?
-- git clone this repository
-- python setup.py install
+## Cite
 
-## SOTIP has been tested on
-
-- System: CentOS
-- Python: 3.8.0
-- Python packages: numpy==1.21.2 pandas==1.3.4 scipy==1.7.1 matplotlib==3.4.3 seaborn==0.11.2 scanpy==1.8.2  squidpy==1.1.2 palettable==3.3.0 scikit-learn==1.0.1 networkx==2.6.3 shapely==1.8.0 pyemd==0.5.1
-
-
-## References
-
-Please consider citing the following reference:
-
-- TBD
-
-<br>
-
+If you find SOView to be useful in your research, please consider citing:
+<br> TBC

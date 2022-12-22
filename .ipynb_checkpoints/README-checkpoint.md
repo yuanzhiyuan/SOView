@@ -4,7 +4,7 @@
 
 <br>Find installation and tutorial in the [**Tutorial**](https://ms-doc.readthedocs.io/en/latest/)
 
-<br> Developer: Zhiyuan Yuan (zhiyuan AT fudan DOT edu DOT cn) 
+### Developer: Zhiyuan Yuan (zhiyuan AT fudan DOT edu DOT cn) 
 <br>
 
 
@@ -13,10 +13,7 @@
 ![MS](Images/soview.png)
 
 
-## If you find SOView to be useful in your research, please consider citing:
-<br> TBD
+## Cite
 
-
-
-
-
+If you find SOView to be useful in your research, please consider citing:
+<br> TBC
