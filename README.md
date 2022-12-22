@@ -4,7 +4,7 @@
 
 <br>Find installation and tutorial in the [**Tutorial**](https://ms-doc.readthedocs.io/en/latest/)
 
-### Developer: Zhiyuan Yuan (zhiyuan AT fudan DOT edu DOT cn) 
+<br> Developer: Zhiyuan Yuan (zhiyuan AT fudan DOT edu DOT cn) 
 <br>
 
 
