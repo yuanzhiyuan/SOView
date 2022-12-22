@@ -13,9 +13,7 @@
 ![MS](Images/soview.png)
 
 
-## Cite
-
-<br>If you find SOView to be useful in your research, please consider citing:
+## If you find SOView to be useful in your research, please consider citing:
 <br> TBD
 
 
