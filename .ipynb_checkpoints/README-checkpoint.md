@@ -15,8 +15,8 @@
 
 ## Cite
 
-If you find SOView to be useful in your research, please consider citing:
-<br> TBC
+<br>If you find SOView to be useful in your research, please consider citing:
+<br> TBD
 
 
 
