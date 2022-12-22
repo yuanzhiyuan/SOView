@@ -2,7 +2,7 @@
 
 <br>SOView can visualize tissue structures for spatial omics data.
 
-<br>Find installation and tutorial in the [**Tutorial**](https://ms-doc.readthedocs.io/en/latest/)
+<br>Find installation and tutorial in the [**Tutorial**](https://soview-doc.readthedocs.io/en/latest/index.html)
 
 ### Developer: Zhiyuan Yuan (zhiyuan AT fudan DOT edu DOT cn) 
 <br>
